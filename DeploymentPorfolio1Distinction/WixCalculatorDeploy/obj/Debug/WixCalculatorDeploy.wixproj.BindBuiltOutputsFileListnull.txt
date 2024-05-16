@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\WixCalculatorDeploy\bin\Debug\WixCalculatorDeploy.msi
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\WixCalculatorDeploy\bin\Debug\WixCalculatorDeploy.wixpdb

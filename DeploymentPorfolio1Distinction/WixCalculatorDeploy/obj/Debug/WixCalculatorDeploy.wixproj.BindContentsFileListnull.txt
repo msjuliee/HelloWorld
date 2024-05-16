@@ -1,0 +1,3 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\CalculationClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\DeploymentPorfolio1Distinction.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\RandomClass.dll

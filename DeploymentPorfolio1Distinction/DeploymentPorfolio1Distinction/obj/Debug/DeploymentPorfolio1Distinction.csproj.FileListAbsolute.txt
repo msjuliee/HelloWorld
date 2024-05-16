@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.CalculatorForm.resources
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.Properties.Resources.resources
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\DeploymentPorfolio1Distinction.exe.config
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\DeploymentPorfolio1Distinction.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\DeploymentPorfolio1Distinction.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\obj\Debug\DeploymentPorfolio1Distinction.csproj.CopyComplete
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\RandomClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\RandomClass.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\CalculationClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\DeploymentPorfolio1Distinction\bin\Debug\CalculationClass.pdb

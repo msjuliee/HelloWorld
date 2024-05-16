@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\RandomClass\bin\Debug\RandomClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\RandomClass\obj\Debug\RandomClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\RandomClass\obj\Debug\RandomClass.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\RandomClass\obj\Debug\RandomClass.csprojAssemblyReference.cache

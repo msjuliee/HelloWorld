@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="DeploymentPorfolio1Distinction" Language="1033" Version="1.0.0.0" Manufacturer="Linh Dan Nguyen" UpgradeCode="b3306b86-7594-4a9c-b315-2225fb2d341a">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="DeploymentPorfolio1Distinction" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DeploymentPorfolio1Distinction" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+
+      <Component Id="DeploymentPorfolio1Distinction.exe" Guid="704C4F77-D4D4-4874-A586-C76B2D8D5E99" >
+        <File Id="DeploymentPorfolio1Distinction.exe" Name="DeploymentPorfolio1Distinction.exe" Source="$(var.DeploymentPorfolio1Distinction.TargetDir)DeploymentPorfolio1Distinction.exe"></File>
+      </Component>
+
+      <Component Id="CalculationClass.dll" Guid="3AD9C52A-CC07-4029-A877-47D814E7E085">
+        <File Id="CalculationClass.dll" Name="CalculationClass.dll" Source="$(var.DeploymentPorfolio1Distinction.TargetDir)CalculationClass.dll" />
+      </Component>
+      
+      <Component Id="RandomClass.dll" Guid="BCD1C5FE-828D-4EAC-8D12-CA400744F3A9">
+        <File Id="RandomClass.dll" Name="RandomClass.dll" Source="$(var.DeploymentPorfolio1Distinction.TargetDir)RandomClass.dll" />
+      </Component>
+      
+		</ComponentGroup>
+	</Fragment>
+</Wix>
