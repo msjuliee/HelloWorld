@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\CalculationClass\bin\Debug\CalculationClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\CalculationClass\bin\Debug\CalculationClass.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\CalculationClass\obj\Debug\CalculationClass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\CalculationClass\obj\Debug\CalculationClass.dll
+C:\Users\DELL\source\repos\DeploymentPorfolio1Distinction\CalculationClass\obj\Debug\CalculationClass.pdb
